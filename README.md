@@ -15,6 +15,7 @@ https://stackoverflow.com/questions/tagged/numpy)
 https://doi.org/10.1038/s41586-020-2649-2)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/numpy/numpy/badge)](https://securityscorecards.dev/viewer/?uri=github.com/numpy/numpy)
 
+¡Estoy feliz de hacer mi primera edición!
 
 NumPy is the fundamental package for scientific computing with Python.
 
